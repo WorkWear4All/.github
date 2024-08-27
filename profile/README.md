@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.workwear4all.nl/styles/clients/workwear4all/img/logo.svg" width="325">
+    <img src="https://logic4cdn.azureedge.net/cdn/styles/clients/workwear4all/img/logo.svg" width="325">
     <hr>
 </div>
 
